@@ -1,5 +1,17 @@
 # HelloWorldConsole
 
+Sample project uses the following versions:
+```
+$ gcc --version
+gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0
+Copyright (C) 2023 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+$ ls /opt/qt/6.8.2/
+bin  doc  include  lib  libexec  metatypes  mkspecs  modules  phrasebooks  plugins  qml  sbom  translations
+```
+
 ## Clone repo
 ```
 git clone https://github.com/daparic/HelloWorldConsole

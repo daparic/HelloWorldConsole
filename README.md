@@ -1,5 +1,11 @@
 # HelloWorldConsole
 
+## Clone repo
+```
+git clone https://github.com/daparic/HelloWorldConsole
+cd HelloWorldConsole
+```
+
 ## Set PATH environment (cpptestcli, cpptesttrace)
 ``` 
 P=/opt/parasoft/cpptest_professional-2025.1.0-linux.x86_64

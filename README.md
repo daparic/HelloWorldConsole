@@ -1,7 +1,5 @@
 # HelloWorldConsole
 
-![Alt text](result.png?raw=true "UT Result")
-
 Sample project uses the following versions:
 ```
 $ gcc --version
@@ -80,3 +78,4 @@ cpptestcli -data ~/workspace1/HelloWorldConsole -config "builtin://Run Unit Test
 google-chrome report2/result.html
 ```
 
+![Alt text](result.png?raw=true "UT Result")

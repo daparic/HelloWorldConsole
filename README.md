@@ -1,5 +1,7 @@
 # HelloWorldConsole
 
+![Alt text](result.png?raw=true "UT Result")
+
 Sample project uses the following versions:
 ```
 $ gcc --version
